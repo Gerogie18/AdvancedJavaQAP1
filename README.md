@@ -7,14 +7,19 @@
 ## Reflection Questions:
 
 1. **How many hours did it take you to complete this assessment? Please provide an estimate of the time spent on each part.**
+
    I spent approximately three hours completing this assessment. The Account class proved to be the most time-consuming, as it presented the steepest learning curve.
 2. **What online resources did you utilize to complete this assessment?**
+
    I primarily relied on the code completed in class during week two, as well as my notes, which were supplemented with assistance from Large Language Models (LLMs), mainly Meta.
 3. **Did you collaborate with any classmates to solve problems in this assessment? If so, please mention their name.**
+
    I received help from Sarah Perry, who walked me through how to read the tables in the assignment while talking about the assignment.
 4. **Did you require assistance from any instructors to complete this assessment? If so, please specify the number of questions asked or help sessions required.**
+
    Jordan provided guidance on general Java concepts, although not specifically related to this assignment.
 5. **Rate the difficulty of each question in this assessment from your perspective, and indicate whether you feel confident in applying similar techniques to solve different problems in the future.**
+
    I feel confident that I can apply the techniques learned in this assignment to solve similar problems in the future. This assignment helped me understand how classes, objects, and methods work together in Java applications.
 
 ---
